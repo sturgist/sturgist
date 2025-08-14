@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Trever
 - 👀 I’m interested in software development
 - 🌱 I’m currently studying computer science at Michigan State University 
-- 💞️ I’m looking to collaborate on python projects
+- 💞️ I’m looking to collaborate on c++ or python projects
 - 📫 How to reach me: sturgist@msu.edu
 
 <!---
